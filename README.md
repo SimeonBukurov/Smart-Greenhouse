@@ -1,2 +1,1 @@
-# IS
-Group Project
+# Smart Greenhouse – Интелигентна система за умна оранжерия
