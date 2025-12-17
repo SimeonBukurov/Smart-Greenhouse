@@ -1,0 +1,86 @@
+2025-12-17 04:25:23 | === App started ===
+2025-12-17 04:25:23 | ACTION Ventilation -> ON | Vent: temp 22.0 > target+2.0; Mist: hum 55.0 < target 60.0
+2025-12-17 04:25:23 | ACTION Windows -> ON | Vent: temp 22.0 > target+2.0; Mist: hum 55.0 < target 60.0
+2025-12-17 04:25:23 | ACTION Misting -> ON | Vent: temp 22.0 > target+2.0; Mist: hum 55.0 < target 60.0
+2025-12-17 04:25:23 | ACTION Alarm -> ON | Vent: temp 22.0 > target+2.0; Mist: hum 55.0 < target 60.0
+2025-12-17 04:25:26 | ACTION Watering -> ON | Water: soil 44.8 < min 45.0; Mist: hum 59.4 < target 60.0
+2025-12-17 04:25:28 | ACTION Heating -> ON | Heating: temp 17.1 < target 18.0
+2025-12-17 04:25:28 | ACTION Ventilation -> OFF | Heating: temp 17.1 < target 18.0
+2025-12-17 04:25:28 | ACTION Windows -> OFF | Heating: temp 17.1 < target 18.0
+2025-12-17 04:25:30 | ACTION Alarm -> OFF | 
+2025-12-17 04:25:32 | ACTION Heating -> OFF | Vent: hum 69.0 > target+8.0; Light: lux 249 < min 250
+2025-12-17 04:25:32 | ACTION Ventilation -> ON | Vent: hum 69.0 > target+8.0; Light: lux 249 < min 250
+2025-12-17 04:25:32 | ACTION Windows -> ON | Vent: hum 69.0 > target+8.0; Light: lux 249 < min 250
+2025-12-17 04:25:32 | ACTION Misting -> OFF | Vent: hum 69.0 > target+8.0; Light: lux 249 < min 250
+2025-12-17 04:25:32 | ACTION Lighting -> ON | Vent: hum 69.0 > target+8.0; Light: lux 249 < min 250
+2025-12-17 04:25:32 | ACTION Alarm -> ON | Vent: hum 69.0 > target+8.0; Light: lux 249 < min 250
+2025-12-17 04:25:34 | ACTION Heating -> ON | Heating: temp 16.5 < target 18.0; Vent: hum 69.4 > target+8.0
+2025-12-17 04:25:34 | ACTION Watering -> OFF | Heating: temp 16.5 < target 18.0; Vent: hum 69.4 > target+8.0
+2025-12-17 04:25:36 | ACTION Lighting -> OFF | Heating: temp 15.6 < target 24.0; Vent: hum 69.4 > target+8.0
+2025-12-17 04:25:44 | ACTION Lighting -> ON | Heating: temp 13.5 < target 24.0; Vent: hum 69.1 > target+8.0; Light: lux 234 < min 250
+2025-12-17 04:25:48 | ACTION Lighting -> OFF | Heating: temp 13.1 < target 24.0; Vent: hum 68.8 > target+8.0
+2025-12-17 04:26:04 | Sim clock reset to NOW
+2025-12-17 04:26:18 | ACTION Lighting -> ON | Heating: temp 11.1 < target 24.0; Vent: hum 69.0 > target+8.0; Light: lux 236 < min 250
+2025-12-17 04:26:22 | ACTION Lighting -> OFF | Heating: temp 14.5 < target 24.0
+2025-12-17 04:26:30 | ACTION Ventilation -> OFF | Heating: temp 21.5 < target 24.0
+2025-12-17 04:26:30 | ACTION Windows -> OFF | Heating: temp 21.5 < target 24.0
+2025-12-17 04:26:34 | ACTION Alarm -> OFF | 
+2025-12-17 04:26:36 | ACTION Heating -> OFF | 
+2025-12-17 04:26:50 | ACTION Ventilation -> ON | Vent: temp 26.0 > target+2.0; Mist: hum 60.0 < target 60.0
+2025-12-17 04:26:50 | ACTION Windows -> ON | Vent: temp 26.0 > target+2.0; Mist: hum 60.0 < target 60.0
+2025-12-17 04:26:50 | ACTION Misting -> ON | Vent: temp 26.0 > target+2.0; Mist: hum 60.0 < target 60.0
+2025-12-17 04:26:50 | ACTION Alarm -> ON | Vent: temp 26.0 > target+2.0; Mist: hum 60.0 < target 60.0
+2025-12-17 04:26:54 | ACTION Watering -> ON | Vent: temp 28.9 > target+2.0; Water: soil 45.0 < min 45.0
+2025-12-17 04:27:02 | ACTION Watering -> OFF | Vent: temp 32.3 > target+2.0
+2025-12-17 04:27:06 | ACTION Misting -> OFF | Vent: temp 33.2 > target+2.0
+2025-12-17 04:27:12 | ACTION Misting -> ON | Vent: temp 34.1 > target+2.0; Mist: hum 58.4 < target 60.0
+2025-12-17 04:27:30 | === App started ===
+2025-12-17 04:27:30 | ACTION Ventilation -> ON | Vent: temp 22.0 > target+2.0; Mist: hum 55.0 < target 60.0
+2025-12-17 04:27:30 | ACTION Windows -> ON | Vent: temp 22.0 > target+2.0; Mist: hum 55.0 < target 60.0
+2025-12-17 04:27:30 | ACTION Misting -> ON | Vent: temp 22.0 > target+2.0; Mist: hum 55.0 < target 60.0
+2025-12-17 04:27:30 | ACTION Alarm -> ON | Vent: temp 22.0 > target+2.0; Mist: hum 55.0 < target 60.0
+2025-12-17 04:27:32 | ACTION Watering -> ON | Water: soil 44.8 < min 45.0; Mist: hum 59.4 < target 60.0
+2025-12-17 04:27:34 | ACTION Heating -> ON | Heating: temp 17.1 < target 18.0
+2025-12-17 04:27:34 | ACTION Ventilation -> OFF | Heating: temp 17.1 < target 18.0
+2025-12-17 04:27:34 | ACTION Windows -> OFF | Heating: temp 17.1 < target 18.0
+2025-12-17 04:27:36 | ACTION Alarm -> OFF | 
+2025-12-17 04:27:38 | ACTION Heating -> OFF | Vent: hum 69.0 > target+8.0; Light: lux 249 < min 250
+2025-12-17 04:27:38 | ACTION Ventilation -> ON | Vent: hum 69.0 > target+8.0; Light: lux 249 < min 250
+2025-12-17 04:27:38 | ACTION Windows -> ON | Vent: hum 69.0 > target+8.0; Light: lux 249 < min 250
+2025-12-17 04:27:38 | ACTION Misting -> OFF | Vent: hum 69.0 > target+8.0; Light: lux 249 < min 250
+2025-12-17 04:27:38 | ACTION Lighting -> ON | Vent: hum 69.0 > target+8.0; Light: lux 249 < min 250
+2025-12-17 04:27:38 | ACTION Alarm -> ON | Vent: hum 69.0 > target+8.0; Light: lux 249 < min 250
+2025-12-17 04:27:40 | ACTION Heating -> ON | Heating: temp 16.5 < target 18.0; Vent: hum 69.4 > target+8.0
+2025-12-17 04:27:40 | ACTION Watering -> OFF | Heating: temp 16.5 < target 18.0; Vent: hum 69.4 > target+8.0
+2025-12-17 04:27:42 | ACTION Lighting -> OFF | Heating: temp 15.7 < target 24.0; Vent: hum 69.4 > target+8.0
+2025-12-17 12:30:12 | === App started ===
+2025-12-17 12:30:13 | ACTION Heating -> ON | Heating: temp 22.0 < target 24.0; Mist: hum 55.0 < target 60.0
+2025-12-17 12:30:13 | ACTION Misting -> ON | Heating: temp 22.0 < target 24.0; Mist: hum 55.0 < target 60.0
+2025-12-17 12:30:13 | ACTION Alarm -> ON | Heating: temp 22.0 < target 24.0; Mist: hum 55.0 < target 60.0
+2025-12-17 12:30:15 | ACTION Watering -> ON | Heating: temp 22.6 < target 24.0; Water: soil 44.8 < min 45.0; Mist: hum 57.7 < target 60.0
+2025-12-17 12:30:19 | ACTION Alarm -> OFF | 
+2025-12-17 12:30:21 | ACTION Misting -> OFF | 
+2025-12-17 12:30:23 | ACTION Heating -> OFF | 
+2025-12-17 12:30:23 | ACTION Watering -> OFF | 
+2025-12-17 12:30:33 | ACTION Heating -> ON | Heating: temp 23.2 < target 24.0
+2025-12-17 12:30:33 | ACTION Alarm -> ON | Heating: temp 23.2 < target 24.0
+2025-12-17 12:30:35 | ACTION Alarm -> OFF | 
+2025-12-17 12:30:37 | ACTION Heating -> OFF | 
+2025-12-17 12:30:45 | ACTION Heating -> ON | Heating: temp 23.0 < target 24.0
+2025-12-17 12:30:45 | ACTION Alarm -> ON | Heating: temp 23.0 < target 24.0
+2025-12-17 12:30:47 | ACTION Alarm -> OFF | 
+[2025-12-17 12:44:03] Reasons: Temp low (21.7 < 22.0); Soil low (44.8 < 45.0)
+[2025-12-17 12:44:36] Reasons: Temp low (21.9 < 22.0)
+[2025-12-17 12:44:46] Reasons: Light low (248 < 250)
+[2025-12-17 12:44:56] Reasons: Soil low (44.8 < 45.0); Light low (241 < 250)
+[2025-12-17 12:45:00] Reasons: Temp high (22.8 > 20.0)
+[2025-12-17 12:45:02] Reasons: Temp high (20.8 > 20.0)
+[2025-12-17 12:45:06] Reasons: Light low (239 < 250)
+[2025-12-17 12:45:17] Reasons: Light low (238 < 250)
+[2025-12-17 12:45:27] Reasons: Temp low (15.8 < 16.0); Light low (238 < 250)
+[2025-12-17 12:45:31] Reasons: Soil low (45.0 < 45.0)
+[2025-12-17 12:45:37] Reasons: Light low (238 < 250)
+[2025-12-17 12:45:39] Reasons: Humidity high (66.1 > 66.0)
+[2025-12-17 12:45:41] Reasons: Humidity high (67.1 > 66.0)
+[2025-12-17 14:02:21] Reasons: Temp low (21.7 < 22.0); Soil low (44.8 < 45.0)
+[2025-12-17 14:04:19] Reasons: Temp low (21.7 < 22.0); Soil low (44.8 < 45.0)
